@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Knowledge/URL.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Knowledge/URL.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Knowledge/URL.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Knowledge/URL.md"
+                "file": "README.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "e8a0514be7dd38bc",
   "lastOpenFiles": [
+    "Basic Knowledge/URL.md",
     "Image/Pasted image 20240613165345.png",
     "README.md",
-    "Basic Knowledge/URL.md",
     "Tags",
     "Image/Pasted image 20240613164218.png",
     "Image/Pasted image 20240613164058.png",
