@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Basic Knowledge/URL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,8 +76,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fc3393daae6040cc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,10 +167,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8a0514be7dd38bc",
+  "active": "ead56f836c7fcd86",
   "lastOpenFiles": [
     "Basic Knowledge/URL.md",
     "README.md",
+    "Tags",
     "Image/Pasted image 20240613164218.png",
     "Image/Pasted image 20240613164058.png",
     "Image",
@@ -176,7 +185,6 @@
     "checkbox.html",
     "3.html",
     "2.html",
-    "1.html",
-    "helloworld.js"
+    "1.html"
   ]
 }
