@@ -7,3 +7,6 @@ A repository that builds the foundation of node.js and takes notes through md.
 > [URL](Basic%20Knowledge/URL.md)
 > <br/> The URL (Uniform Resource Locator) module provides utilities for parsing, formatting, and resolving web addresses, making it easier to handle tasks such as HTTP requests.
 
+> [CRUD](Basic%20Knowledge/CRUD.md)
+> <br/> The URL (Uniform Resource Locator) module provides utilities for parsing, formatting, and resolving web addresses, making it easier to handle tasks such as HTTP requests.
+
