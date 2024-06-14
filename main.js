@@ -6,13 +6,12 @@ var app = http.createServer(function (request, response) {
   var _url = request.url;
   var queryData = url.parse(_url, true).query;
   var pathname = url.parse(_url, true).pathname;
-  var title = queryData.id;
 
   if (pathname === "/") {
     if (queryData.id === undefined) {
-      var title = "Welcome";
-      var description = "Hello, Node.js";
       fs.readFile(`data/${queryData.id}`, "utf8", function (err, description) {
+        var title = "Welcome";
+        var description = "Hello, Node.js";
         var template = `
               <!doctype html>
               <html>
@@ -37,6 +36,7 @@ var app = http.createServer(function (request, response) {
       });
     } else {
       fs.readFile(`data/${queryData.id}`, "utf8", function (err, description) {
+        var title = queryData.id;
         var template = `
               <!doctype html>
               <html>
