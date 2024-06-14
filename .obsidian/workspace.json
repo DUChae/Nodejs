@@ -25,7 +25,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Record"
               }
             }
           }
@@ -164,6 +164,10 @@
   },
   "active": "e8a0514be7dd38bc",
   "lastOpenFiles": [
+    "Record/무제 파일.md",
+    "Record/Record.md",
+    "Tags1",
+    "Record",
     "무제 파일.md",
     "README.md",
     "Basic Knowledge/CRUD.md",
@@ -179,10 +183,8 @@
     "Tags",
     "Image/Pasted image 20240613164218.png",
     "Image/Pasted image 20240613164058.png",
-    "Image",
     "Image/Pasted image 20240613164024.png",
     "Image/Pasted image 20240613163917.png",
-    "Basic Knowledge",
     "Image/coding.jpg"
   ]
 }
