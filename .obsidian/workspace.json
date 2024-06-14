@@ -168,8 +168,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8a0514be7dd38bc",
+  "active": "fc3393daae6040cc",
   "lastOpenFiles": [
+    "ex/sample.txt",
+    "ex/fileread.js",
+    "ex",
     "README.md",
     "Basic Knowledge/CRUD.md",
     "Basic Knowledge/URL.md",
@@ -186,8 +189,6 @@
     "main.js",
     "index.html",
     "checkbox.html",
-    "3.html",
-    "2.html",
-    "1.html"
+    "3.html"
   ]
 }

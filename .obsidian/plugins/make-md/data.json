@@ -40,7 +40,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Basic Knowledge"
+    "//Basic Knowledge",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
