@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Knowledge/CRUD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Knowledge/CRUD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Knowledge/CRUD.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Knowledge/CRUD.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,13 +168,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fc3393daae6040cc",
+  "active": "e8a0514be7dd38bc",
   "lastOpenFiles": [
+    "Basic Knowledge/CRUD.md",
     "ex/sample.txt",
     "ex/fileread.js",
     "ex",
     "README.md",
-    "Basic Knowledge/CRUD.md",
     "Basic Knowledge/URL.md",
     "Image/Pasted image 20240613165345.png",
     "Tags",
@@ -188,7 +188,6 @@
     "package.json",
     "main.js",
     "index.html",
-    "checkbox.html",
-    "3.html"
+    "checkbox.html"
   ]
 }
