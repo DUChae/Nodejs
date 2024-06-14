@@ -170,6 +170,10 @@
   },
   "active": "e8a0514be7dd38bc",
   "lastOpenFiles": [
+    "data/JavaScript",
+    "data/CSS",
+    "data/HTML",
+    "data",
     "Basic Knowledge/CRUD.md",
     "ex/sample.txt",
     "ex/fileread.js",
@@ -185,9 +189,6 @@
     "Image/Pasted image 20240613163917.png",
     "Basic Knowledge",
     "Image/coding.jpg",
-    "package.json",
-    "main.js",
-    "index.html",
-    "checkbox.html"
+    "package.json"
   ]
 }
