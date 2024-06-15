@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Record/GetFileRead.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Record/GetFileRead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Record/GetFileRead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Record/GetFileRead.md"
               }
             }
           }
@@ -170,13 +170,14 @@
   },
   "active": "e8a0514be7dd38bc",
   "lastOpenFiles": [
+    "README.md",
+    "Record/GetFileRead.md",
     "ex/readdir.js",
     "Record/2024.6.13.md",
     "Record/Record.md",
     "Tags1",
     "Record",
     "무제 파일.md",
-    "README.md",
     "Basic Knowledge/CRUD.md",
     "data/JavaScript",
     "data/CSS",
@@ -187,7 +188,6 @@
     "ex",
     "Basic Knowledge/URL.md",
     "Image/Pasted image 20240613165345.png",
-    "Tags",
     "Image/Pasted image 20240613164218.png",
     "Image/Pasted image 20240613164058.png",
     "Image/Pasted image 20240613164024.png",
