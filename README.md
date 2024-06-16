@@ -17,3 +17,4 @@ A repository that builds the foundation of node.js and takes notes through md.
 
 > [Get File Read](Record/GetFileRead.md)
 > <br/> This code asynchronously reads and logs the list of files and directories in the specified `./data` folder using Node.js's `fs` module.
+
