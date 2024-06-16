@@ -89,6 +89,9 @@ var app = http.createServer(function (request, response) {
       response.writeHead(200);
       response.end(template);
     });
+  } else if (pathname === "/process_create") {
+    response.writeHead(200);
+    response.end("Success!");
   } else {
     response.writeHead(404);
     response.end("Not found");
