@@ -25,5 +25,5 @@ A repository that builds the foundation of node.js and takes notes through md.
 > <br/> A callback function is a function passed as an argument to another function, which is then executed within the outer function to complete some kind of routine or action.
 
 [Package Manager & PM2](Record/PackageManager&PM2.md)
-> <br/> A callback function is a function passed as an argument to another function, which is 
+> <br/> A package manager manages the installation, update, and removal of software packages, crucial for system functionality. NPM is widely used in Node.js, while PM2 manages running Node.js applications, automatically restarting them on failure and reloading on code changes.
 
