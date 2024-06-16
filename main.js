@@ -19,6 +19,17 @@ function templateHTML(title, list, body) {
           `;
 }
 
+function templateList(filelist) {
+  var list = "<ul>";
+  var i = 0;
+  while (i < filelist.length) {
+    list = list + `<li><a href="/?id=${filelist[i]}">${filelist[i]}</a></li>`;
+    i = i + 1;
+  }
+  list = list + "</ul>";
+  return list;
+}
+
 var app = http.createServer(function (request, response) {
   var _url = request.url;
   var queryData = url.parse(_url, true).query;
@@ -28,14 +39,7 @@ var app = http.createServer(function (request, response) {
       fs.readdir("./data", function (error, filelist) {
         var title = "Welcome";
         var description = "Hello, Node.js";
-        var list = "<ul>";
-        var i = 0;
-        while (i < filelist.length) {
-          list =
-            list + `<li><a href="/?id=${filelist[i]}">${filelist[i]}</a></li>`;
-          i = i + 1;
-        }
-        list = list + "</ul>";
+        var list = templateList(filelist);
         var template = templateHTML(
           title,
           list,
@@ -46,16 +50,7 @@ var app = http.createServer(function (request, response) {
       });
     } else {
       fs.readdir("./data", function (error, filelist) {
-        var title = "Welcome";
-        var description = "Hello, Node.js";
-        var list = "<ul>";
-        var i = 0;
-        while (i < filelist.length) {
-          list =
-            list + `<li><a href="/?id=${filelist[i]}">${filelist[i]}</a></li>`;
-          i = i + 1;
-        }
-        list = list + "</ul>";
+        var list = templateList(filelist);
         fs.readFile(
           `data/${queryData.id}`,
           "utf8",
