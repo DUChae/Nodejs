@@ -19,4 +19,4 @@ A repository that builds the foundation of node.js and takes notes through md.
 > <br/> This code asynchronously reads and logs the list of files and directories in the specified `./data` folder using Node.js's `fs` module.
 
 > [Sync & Async](Record/Sync&Async.md)
-> 
+> <br/> Explored the difference between synchronous and asynchronous programming through simple code examples and understood its importance.

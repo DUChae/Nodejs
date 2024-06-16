@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record/Sync&Async.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record/Sync&Async.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record/Sync&Async.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record/Sync&Async.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,9 +157,10 @@
   },
   "active": "6990e774b3931126",
   "lastOpenFiles": [
+    "Record/Sync&Async.md",
+    "Image/Pasted image 20240616140205.png",
     "ex/sync.js",
     "README.md",
-    "Record/Sync&Async.md",
     "data/sample",
     "Record/GetFileRead.md",
     "ex/readdir.js",
@@ -174,7 +175,6 @@
     "data/HTML",
     "data",
     "ex/sample.txt",
-    "ex/fileread.js",
     "Basic Knowledge/URL.md",
     "Image/Pasted image 20240613165345.png",
     "Image/Pasted image 20240613164218.png",
