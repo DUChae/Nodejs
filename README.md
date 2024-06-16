@@ -20,3 +20,6 @@ A repository that builds the foundation of node.js and takes notes through md.
 
 > [Sync & Async](Record/Sync&Async.md)
 > <br/> Explored the difference between synchronous and asynchronous programming through simple code examples and understood its importance.
+
+[Callback](Record/Callback.md)
+> <br/> A callback function is a function passed as an argument to another function, which is then executed within the outer function to complete some kind of routine or action.
